@@ -8,3 +8,4 @@
 - `5-listfilesdigitonly`: displays the current directory contents in long format, with hidden files and numeric user and group IDs.
 - `6-firstdirectory`: creates a directory named my_first_directory in /tmp.
 - `7-movethatfile`: moves the file betty from /tmp to /tmp/my_first_directory.
+- `8-firstdelete`: deletes the file betty from /tmp/my_first_directory.
