@@ -1,0 +1,1 @@
+- `0-alias`: creates the alias ls with the value rm -f *.
