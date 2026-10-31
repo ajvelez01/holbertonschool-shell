@@ -12,3 +12,4 @@
 - `7-file`: creates a file with a strange name containing the text "Best School" followed by a new line.
 - `8-cwd_state`: writes the output of ls -la into ls_cwd_content, overwriting it if it exists.
 - `9-duplicate_last_line`: duplicates the last line of the file iacta in the working directory.
+- `10-no_more_js`: deletes all regular files with a .js extension in the current directory and its subdirectories.
