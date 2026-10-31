@@ -8,3 +8,5 @@
 - `4-lastlines`: displays the last 10 lines of /etc/passwd.
 - `5-firstlines`: displays the first 10 lines of /etc/passwd.
 - `6-third_line`: displays the third line of the file iacta in the working directory.
+- `7-file`: creates a file with a strange name containing the text "Best School" followed by a new line.
+- `7-file`: creates a file with a strange name containing the text "Best School" followed by a new line.
