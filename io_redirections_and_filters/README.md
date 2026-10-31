@@ -10,3 +10,4 @@
 - `6-third_line`: displays the third line of the file iacta in the working directory.
 - `7-file`: creates a file with a strange name containing the text "Best School" followed by a new line.
 - `7-file`: creates a file with a strange name containing the text "Best School" followed by a new line.
+- `8-cwd_state`: writes the output of ls -la into ls_cwd_content, overwriting it if it exists.
