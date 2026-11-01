@@ -3,3 +3,4 @@
 - `2-path`: adds /action to the end of the PATH variable. Run it with source.
 - `3-paths`: counts the number of non-empty directories in the PATH variable. Run it with source or as a script.
 - `4-global_variables`: lists the environment variables.
+- `5-local_variables`: lists all local variables, environment variables and functions.
