@@ -1,3 +1,4 @@
 - `0-alias`: creates the alias ls with the value rm -f *.
 - `1-hello_you`: prints "hello user", where user is the current Linux user.
 - `2-path`: adds /action to the end of the PATH variable. Run it with source.
+- `3-paths`: counts the number of non-empty directories in the PATH variable. Run it with source or as a script.
