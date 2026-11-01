@@ -12,3 +12,4 @@
 - `9-John_Doe`: sets the mode of the file hello to rwxr-x-wx.
 - `10-mirror_permissions`: sets the mode of the file hello to the same mode as the file olleh.
 - `11-directories_permissions`: adds execute permission for the owner, the group and other users to all subdirectories of the current directory.
+- `12-directory_permissions`: creates a directory called my_dir with permissions 751 in the current directory.
