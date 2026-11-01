@@ -1,1 +1,2 @@
 - `0-alias`: creates the alias ls with the value rm -f *.
+- `1-hello_you`: prints "hello user", where user is the current Linux user.
