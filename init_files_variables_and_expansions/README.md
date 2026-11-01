@@ -4,3 +4,4 @@
 - `3-paths`: counts the number of non-empty directories in the PATH variable. Run it with source or as a script.
 - `4-global_variables`: lists the environment variables.
 - `5-local_variables`: lists all local variables, environment variables and functions.
+- `6-create_local_variable`: creates the local variable BEST with the value School. Run it with source.
